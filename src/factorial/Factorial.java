@@ -6,6 +6,9 @@ import java.util.Vector;
 /**
  *
  * @author Tpc
+ * 
+ * priject  factorial
+ * 
  */
 public class Factorial {
 
