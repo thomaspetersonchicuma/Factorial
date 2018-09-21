@@ -5,7 +5,7 @@ import java.util.Vector;
 
 /**
  *
- * @author User
+ * @author Tpc
  */
 public class Factorial {
 
